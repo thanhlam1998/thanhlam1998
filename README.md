@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Thanh Lâm
 - 👀 I’m interested in coding, drawing and listening to music
-- 🌱 I’m currently learning React and things that related to frontend 
+- 🌱 I am working as a fullstack developer with MERN stack
 - 📫 How to reach me lamnguyen11e@gmail.com
